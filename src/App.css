@@ -1,5 +1,11 @@
 .App {
-  text-align: center;
+  text-align: left;
+}
+
+.card {
+  border: 2px solid black;
+  margin: 1rem;
+  padding: 1rem;
 }
 
 .App-logo {
